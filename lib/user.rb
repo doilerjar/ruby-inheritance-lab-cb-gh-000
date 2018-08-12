@@ -8,4 +8,6 @@ class User
     
     self
   end
+  
+
 end 
